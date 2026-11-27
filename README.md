@@ -14,12 +14,14 @@ Procedure
 Circuit Diagram
 
 
+<img width="1917" height="1017" alt="Screenshot 2026-11-27 084039" src="https://github.com/user-attachments/assets/dadb4142-e04b-4346-8526-418f17695789" />
 
 
 
 The circuit is designed in LTspice as shown in the record.
 Observation / Output
 
+<img width="1917" height="1012" alt="Screenshot 2026-11-27 084111" src="https://github.com/user-attachments/assets/dd910c71-30c4-483b-9540-6b28ca754fa2" />
 
 
 The frequency-response graph is obtained from the LTspice simulation window by placing the probe at the required output node.
